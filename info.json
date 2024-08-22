@@ -1,0 +1,17 @@
+{
+    "OWNER_IDS": [
+        166692371981926400
+    ],
+    "TOKEN": "",
+    "BotName": "Revolution X",
+    "serverLink": "https://discord.gg/shadowx",
+    "wh_cl": "Webhook-for-command-logs",
+    "wh_bl": "Webhook-for-guild-logs",
+    "statusText": ".help",
+    "EXTENSIONS": [
+        "cogs.events"
+    ],
+    "np": [
+        1231796315537805369
+    ]
+}
